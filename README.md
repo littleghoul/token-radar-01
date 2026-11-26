@@ -1,5 +1,11 @@
 # Token Radar
 
+![make.fun](https://make.fun/badge/token-radar-01.svg)
+![rank](https://make.fun/badge/token-radar-01/littleghoul/token-radar-01/rank.svg)
+![reward](https://make.fun/badge/token-radar-01/littleghoul/token-radar-01/reward.svg)
+
+[token-radar-01 on make.fun](https://make.fun/bounty/token-radar-01)
+
 A token launch radar: it reads a sealed snapshot of the protocols DefiLlama
 tracks, finds the ones that record no token of their own, ranks them by what
 their launch would be worth, and hands in a web dashboard that shows the board,
